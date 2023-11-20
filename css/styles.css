@@ -1,0 +1,171 @@
+.list {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+
+/* BODY */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+  color: #434455;
+}
+
+/* LOGO */
+.logo {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logo-text {
+  color: #2e2f42;
+}
+
+/* NAVIGATION LINKS */
+.menu-link {
+  color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+/* ADDRESS SECTION */
+.header-contacts {
+  font-style: normal;
+}
+
+.contact-link {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  color: #404bbf;
+}
+
+/* FIRST SECTION */
+.first-section {
+  background: #2e2f42;
+}
+
+.first-section-name {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.first-section-button {
+  background: #4d5ae5;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.first-section-button:hover,
+.first-section-button:focus {
+  color: #404bbf;
+  background-color: #404bbf;
+}
+
+/* SECOND SECTION */
+.second-section-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.section-par {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* THIRD SECTION */
+.section-team {
+  background: #f4f4fd;
+}
+
+.third-section-main-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+}
+
+.third-section-subtitle {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-list-item {
+  text-align: center;
+  background-color: #ffffff;
+}
+
+/* FOURTH SECTION */
+.fourth-section-main-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+
+.fourth-section-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+/* FOOTER */
+footer {
+  background: #2e2f42;
+}
+
+.studio-logo {
+  color: #f4f4fd;
+}
+
+.paragraph-footer {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.footer-link {
+  color: #4d5ae5;
+}
